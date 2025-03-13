@@ -1,0 +1,5 @@
+numpy
+pandas
+google-generativeai
+streamlit
+watchdog
