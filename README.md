@@ -1,7 +1,7 @@
 # 🍽️ 뭐 먹지? - AI 기반 요리 추천 서비스
 
 ## 📌 프로젝트 발표 자료 링크
-[📄 pdf](https://github.com/your-repo-name/path/to/your-pdf.pdf)
+[📄 pdf]([https://github.com/your-repo-name/path/to/your-pdf.pdf](https://github.com/yonghwadragon/momeokji/blob/main/%EB%AD%90%20%EB%A8%B9%EC%A7%80%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf))
 
 ## 📌 프로젝트 개요
 **"뭐 먹지?"** 프로젝트는 사용자가 입력한 재료를 기반으로 AI가 적절한 요리를 추천해주는 **AI 기반 요리 추천 서비스**입니다.
