@@ -97,7 +97,24 @@ watchdog
 .streamlit/secrets.toml
 __pycache__
 ```
+---
 
+## 📦 데이터 다운로드 (Cooking.zip)
+
+이 프로젝트는 요리 데이터를 포함하는 `Cooking.csv` 파일을 사용합니다. 
+GitHub의 **Git LFS**를 통해 `Cooking.zip`으로 압축하여 업로드되었습니다.
+
+🔹 **방법 1️⃣: Git LFS 사용하여 다운로드**
+```bash
+git lfs install
+git lfs pull
+```
+위 명령어를 실행하면 **압축된 `Cooking.zip`을 다운로드**할 수 있습니다.
+
+🔹 **방법 2️⃣: GitHub에서 직접 다운로드**
+1. [GitHub 저장소](https://github.com/yonghwadragon/momeokji)로 이동  
+2. `Cooking.zip` 파일을 찾아 클릭  
+3. "Download" 버튼을 눌러 다운로드
 ---
 
 ## 🚀 마무리
