@@ -115,6 +115,11 @@ git lfs pull
 1. [GitHub 저장소](https://github.com/yonghwadragon/momeokji)로 이동  
 2. `Cooking.zip` 파일을 찾아 클릭  
 3. "Download" 버튼을 눌러 다운로드
+
+🔹 **방법 3️⃣: Google Drive 공유 링크**  
+**Google Drive에서도 다운로드 가능**합니다.  
+👉 [Google Drive 링크](https://drive.google.com/file/d/1XxlPZNWRVqrzKsTKRcMZNVl6qOEfg4dN/view?usp=sharing)
+
 ---
 
 ## 🚀 마무리
